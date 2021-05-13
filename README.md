@@ -5,6 +5,7 @@ Documentation for the One More web application that I completed as part of my fi
 
 As a personal development project, I aim to rewrite the application using React / Redux for the front-end, and Node.js / Express.js for the backend. Project will commence in the summer of 2021.
 
-Keep an eye on this repo as I will be uploading a walkthrough of the application as is, in the coming few days!
+### Walkthrough
+Click below to watch a high-level walkthrough of a user logging in, joining & paying for a game, viewing the venue and reading the confirmation email!
 
-<img src="https://github.com/ElChickenSpicy/One-More/blob/main/screencapture-localhost-8080-FinalYearProject-index-html-2021-05-10-20_04_22.png" />
+[![One More Walkthrough](https://j.gifs.com/mqRLGp.gif)](https://youtu.be/PT1mTKBlB2s)
